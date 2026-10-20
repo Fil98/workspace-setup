@@ -1,0 +1,11 @@
+*token*
+*secret*
+*.key
+*.pem
+*k8s-config*.json
+
+# Временные файлы и кэш
+*.swp
+*.swo
+*~
+.DS_Store
